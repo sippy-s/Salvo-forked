@@ -143,7 +143,7 @@ salvo/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/salvo.git
+   git clone https://github.com/yourusername/Salvo-forked
    cd salvo
    ```
 
